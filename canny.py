@@ -1,4 +1,3 @@
-!pip install opencv-python
 import cv2
 from streamlit_webrtc import VideoTransformerBase, webrtc_streamer
 
